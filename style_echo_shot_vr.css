@@ -125,7 +125,7 @@ p {
 
 /* Texte de l'arrière avec même taille */
 .flip-card-back {
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(0, 0, 0, 0.493);
     color: white;
     border-radius: 12px;
     padding: 1rem;
